@@ -9,7 +9,7 @@
 
 - 🌹 I'd like to learn **Ruby and C#**
 
-- 💬 Ask me about **what music i like to listen**
+- 💬 Ask me about **what type of music i like to listen**
 
 - ⚡ Fun fact **I like to play videogames like: LoL, Valorant, Fortnite, Minecraft, Osu!, Roblox, etc...**
 
