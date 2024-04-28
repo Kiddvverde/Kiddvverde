@@ -1,3 +1,5 @@
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+
 <h1 align="center">Hello! Im Kidd</h1>
 <h3 align="center">A high school student from México</h3>
 
