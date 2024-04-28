@@ -13,10 +13,6 @@
 
 - ⚡ Fun fact **I like to play videogames like: LoL, Valorant, Fortnite, Minecraft, Osu!, Roblox, etc...**
 
-[![Spotify]([https://spotify-github-readme.vercel.app/api/spotify](https://open.spotify.com/intl-es/album/27xqCLyTHom0wyjtw08K12?si=iXoWYZioTDmV0Z2XTTsetw))](https://open.spotify.com/intl-es/album/27xqCLyTHom0wyjtw08K12?si=iXoWYZioTDmV0Z2XTTsetw)
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/27xqCLyTHom0wyjtw08K12?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kiddvverde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kiddvverde" height="30" width="40" /></a>
