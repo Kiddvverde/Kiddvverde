@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript and Python (Tkinter)**
 
+- 📚 I'm studying a technical career in web programming!
+
 - 🌹 I'd like to learn **Ruby and C#**
 
 - 💬 Ask me about **what type of music i like to listen**
