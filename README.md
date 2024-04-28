@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I like to play videogames like: LoL, Valorant, Fortnite, Minecraft, Osu!, Roblox, etc...**
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/intl-es/album/27xqCLyTHom0wyjtw08K12?si=iXoWYZioTDmV0Z2XTTsetw)
+[![Spotify]([https://spotify-github-readme.vercel.app/api/spotify](https://open.spotify.com/intl-es/album/27xqCLyTHom0wyjtw08K12?si=iXoWYZioTDmV0Z2XTTsetw))](https://open.spotify.com/intl-es/album/27xqCLyTHom0wyjtw08K12?si=iXoWYZioTDmV0Z2XTTsetw)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/27xqCLyTHom0wyjtw08K12?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
