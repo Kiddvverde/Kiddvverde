@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kiddvverde" target="blank"><img src="https://img.shields.io/twitter/follow/kiddvverde?logo=twitter&style=for-the-badge" alt="kiddvverde" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Python and JavaScript**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript and Python**
 
 - 🌹 I'd like to learn **Ruby and C#**
 
