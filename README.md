@@ -1,7 +1,7 @@
 <h1 align="center">Hello! Im Kidd</h1>
 <h3 align="center">A high school student from México</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript and Python**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript and Python (Tkinter)**
 
 - 🌹 I'd like to learn **Ruby and C#**
 
