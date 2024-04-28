@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I like to play videogames like: LoL, Valorant, Fortnite, Minecraft, Osu!, Roblox, etc...**
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-es/artist/1wGIhYkKWSq4yACtTkCkSX?si=HBP4QxrPQB-FO8CNZSoG0w)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ngnsu7ppe6joap2t67cciud5ia&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ngnsu7ppe6joap2t67cciud5ia&redirect=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
