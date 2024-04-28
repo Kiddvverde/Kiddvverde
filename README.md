@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I like to play videogames like: LoL, Valorant, Fortnite, Minecraft, Osu!, Roblox, etc...**
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-es/artist/1wGIhYkKWSq4yACtTkCkSX?si=HBP4QxrPQB-FO8CNZSoG0w)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kiddvverde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kiddvverde" height="30" width="40" /></a>
