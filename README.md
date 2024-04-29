@@ -13,6 +13,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ngnsu7ppe6joap2t67cciud5ia&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+<h3 align="left">Personal Projects (In progress):</h3>
+<img src="./timedoroLogo-nobg.png" alt="time-doro!"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kiddvverde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kiddvverde" height="30" width="40" /></a>
