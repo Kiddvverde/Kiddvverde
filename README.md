@@ -1,5 +1,5 @@
 <h1 align="center">Hello! Im Leo</h1>
-<h3 align="center">A high school student from México</h3>
+<h3 align="center">A college student from México</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
