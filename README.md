@@ -1,4 +1,4 @@
-<h1 align="center">Hello! Im Kidd</h1>
+<h1 align="center">Hello! Im Leo</h1>
 <h3 align="center">A high school student from México</h3>
 
 <h3 align="left">Connect with me:</h3>
