@@ -1,21 +1,6 @@
 <h1 align="center">Hello! Im Kidd</h1>
 <h3 align="center">A high school student from México</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript and Python (CustomTkinter)**
-
-- 📚 I'm studying a technical career in web programming!
-
-- 🌹 I'd like to learn **Ruby and C#**
-
-- 💬 Ask me about **what type of music i like to listen**
-
-- ⚡ Fun fact **I like to play videogames like: LoL, Valorant, Fortnite, Minecraft, Osu!, Roblox, etc...**
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ngnsu7ppe6joap2t67cciud5ia&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-<h3 align="left">Personal Projects (In progress):</h3>
-<img src="./timedoroLogo-nobg.png" alt="time-doro! "width="850" height="500"/>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kiddvverde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kiddvverde" height="30" width="40" /></a>
